@@ -1,0 +1,9 @@
+raw_input('Enter first integer')
+
+raw_input('Enter second integer')
+
+raw_output('maximum=19')
+
+raw_output('minimum=7')
+
+raw_output('maximum-minimum')
